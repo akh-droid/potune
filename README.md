@@ -18,3 +18,6 @@ Potune is a lightweight Linux GUI for controlling:
 
 ```bash
 python3 potune.py
+```
+
+Potune will request root permissions automatically when applying changes.
